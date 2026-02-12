@@ -72,21 +72,21 @@ We adhere to strict MLOps principles. Our projects generally follow this flow:
     <td align="center">
         <a href="https://github.com/icepeak01">
             <img src="https://github.com/icepeak01.png" width="100px;" alt=""/><br />
-            <sub><b>Your Name</b></sub>
+            <sub><b>Opeyemi Okekunle</b></sub>
         </a><br />
-        Example: Lead MLE
+        Example: Lead Data Engineer
     </td>
     <td align="center">
         <a href="https://github.com/colleague1">
             <img src="https://github.com/colleague1.png" width="100px;" alt=""/><br />
             <sub><b>Colleague 1</b></sub>
         </a><br />
-        Example: Data Scientist
+        Example: Lead Data Scientist
     </td>
     <td align="center">
         <a href="https://github.com/haywhy1759">
             <img src="https://github.com/haywhy1759.png" width="100px;" alt=""/><br />
-            <sub><b>Colleague 2</b></sub>
+            <sub><b>Ayooluwapo Kayode</b></sub>
         </a><br />
         Example: Data Engineer
     </td>

@@ -115,13 +115,14 @@ We adhere to strict MLOps principles. Our projects generally follow this flow:
 
 
 
-<!--
+## 🧠 Data Science Roadmap
 
-**Here are some ideas to get you started:**
+We focus on advanced analytics, statistical modeling, and Generative AI. Below are our core initiatives ranked by complexity.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Difficulty | Project | Tech Stack | Est. Duration | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Level 1** | **Customer Churn with Explainable AI**<br>Predicted churn using `XGBoost` and interpreted results with `SHAP`/`LIME` to drive retention strategies. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EB5B39?logo=xgboost&logoColor=white) | **2 - 4 Weeks** | ![Status](https://img.shields.io/badge/Status-Active-success) |
+| **Level 2** | **Causal Inference Engine**<br>A framework for A/B testing marketing campaigns using `DoWhy` or `CausalML` to distinguish correlation from causation. | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/-Scipy-8CAAE6?logo=scipy&logoColor=white) | **3 - 5 Weeks** | ![Status](https://img.shields.io/badge/Status-Planning-blue) |
+| **Level 3** | **Fine-Tuning Small Language Models (SLM)**<br>Domain-specific fine-tuning of Llama-3/Mistral using `LoRA` and `PEFT` for legal/medical text summarization. | ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) | **4 - 6 Weeks** | ![Status](https://img.shields.io/badge/Status-Backlog-lightgrey) |
+| **Level 4** | **Multi-Modal Search with RAG**<br>"Chat with Data" system ingesting PDFs/Images. Uses `LangChain`, `OpenAI` embeddings, and Vector DBs. | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink&logoColor=white) ![Pinecone](https://img.shields.io/badge/-VectorDB-000000) | **4 - 6 Weeks** | ![Status](https://img.shields.io/badge/Status-Backlog-lightgrey) |
+| **Level 5** | **Dynamic Pricing with RL**<br>Reinforcement Learning agent (PPO/DQN) simulating price adjustments to maximize profit in volatile markets. | ![Ray](https://img.shields.io/badge/-Ray_RLLib-028CF0?logo=ray&logoColor=white) ![Gym](https://img.shields.io/badge/-OpenAI_Gym-000000?logo=openai&logoColor=white) | **6 - 8 Weeks** | ![Status](https://img.shields.io/badge/Status-Backlog-lightgrey) |

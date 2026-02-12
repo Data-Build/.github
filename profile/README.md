@@ -5,11 +5,13 @@
 
 
 
+
 <div align="center">
 
-  <img src="https://via.placeholder.com/150" alt="Org Logo" width="150" height="150">
 
-  # 🚀 [DATA BUILD]
+  <img width="2816" height="1536" alt="Gemini_Generated_Image_2apnzp2apnzp2apn" src="https://github.com/user-attachments/assets/365a6fda-2dfb-48b0-aee8-c45840489b60" alt="Org Logo" width="150" height="150"/>
+
+  # 🚀 DATA BUILD
 
   **Building End-to-End Data Solutions: From Ingestion to Inference**
 

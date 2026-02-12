@@ -81,7 +81,7 @@ We adhere to strict MLOps principles. Our projects generally follow this flow:
             <img src="https://github.com/colleague1.png" width="100px;" alt=""/><br />
             <sub><b>Colleague 1</b></sub>
         </a><br />
-        Example: Lead Data Scientist
+        Example: Lead Data Science
     </td>
     <td align="center">
         <a href="https://github.com/haywhy1759">

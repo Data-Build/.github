@@ -53,7 +53,8 @@ We adhere to strict MLOps principles. Our projects generally follow this flow:
 
 > **Ingest** (ETL/ELT) $\rightarrow$ **Process** (Cleaning/Feature Eng) $\rightarrow$ **Train** (Modeling) $\rightarrow$ **Deploy** (API/Batch) $\rightarrow$ **Monitor** (Drift Detection)
 
-*(You can insert a diagram of your standard architecture here)*
+<img width="2816" height="1536" alt="Gemini_Generated_Image_2apnzp2apnzp2apn (2)" src="https://github.com/user-attachments/assets/cca69cbb-2c07-4f32-a70a-88fb6cee6907" />
+
 
 ---
 

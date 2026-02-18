@@ -115,6 +115,7 @@ We adhere to strict MLOps principles. Our projects generally follow this flow:
 
 
 
+
 ## 🧠 Data Science Roadmap
 
 We focus on advanced analytics, statistical modeling, and Generative AI. Below are our core initiatives ranked by complexity.
@@ -126,3 +127,11 @@ We focus on advanced analytics, statistical modeling, and Generative AI. Below a
 | **Level 3** | **Fine-Tuning Small Language Models (SLM)**<br>Domain-specific fine-tuning of Llama-3/Mistral using `LoRA` and `PEFT` for legal/medical text summarization. | ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) | **4 - 6 Weeks** | ![Status](https://img.shields.io/badge/Status-Backlog-lightgrey) |
 | **Level 4** | **Multi-Modal Search with RAG**<br>"Chat with Data" system ingesting PDFs/Images. Uses `LangChain`, `OpenAI` embeddings, and Vector DBs. | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink&logoColor=white) ![Pinecone](https://img.shields.io/badge/-VectorDB-000000) | **4 - 6 Weeks** | ![Status](https://img.shields.io/badge/Status-Backlog-lightgrey) |
 | **Level 5** | **Dynamic Pricing with RL**<br>Reinforcement Learning agent (PPO/DQN) simulating price adjustments to maximize profit in volatile markets. | ![Ray](https://img.shields.io/badge/-Ray_RLLib-028CF0?logo=ray&logoColor=white) ![Gym](https://img.shields.io/badge/-OpenAI_Gym-000000?logo=openai&logoColor=white) | **6 - 8 Weeks** | ![Status](https://img.shields.io/badge/Status-Backlog-lightgrey) |
+
+
+
+
+[Bank+Customer+Churn.zip](https://github.com/user-attachments/files/25392252/Bank%2BCustomer%2BChurn.zip)
+
+
+
